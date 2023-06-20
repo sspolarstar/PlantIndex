@@ -32,7 +32,7 @@ const Home = () =>{
                     loop = { false }
                     showsPagination={false}
                     >
-                        {series?.map((num, index) => (
+                        {series?.map((num, index) => ( 
                             <View style={styles.SwiperView}
                             key={index}>
                                 <Text>
