@@ -33,14 +33,12 @@ const Home = () =>{
                     showsPagination={false}
                     >
                         {series?.map((num, index) => (
-                            <>
                             <View style={styles.SwiperView}
                             key={index}>
                                 <Text>
                                     {num} Plant data Big box
                                 </Text>
                             </View>
-                            </>
                         ))}
                 </Swiper>
                 <View style={styles.OptionButton}>
