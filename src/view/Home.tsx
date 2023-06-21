@@ -20,13 +20,14 @@ const Home = () =>{
                 SearchBAR
             </Text>
         </View>
+        {/* Add plant button/Demo Plants*/ }
         <View>
             <Button>
                <Text>Add A Plant</Text>
             </Button>
         </View>
         <ScrollView>
-            <View>
+            <View style={styles.swiperWrapper}>
                 <Swiper
                     showsButtons = {false}
                     loop = { false }
@@ -41,60 +42,79 @@ const Home = () =>{
                             </View>
                         ))}
                 </Swiper>
-                <View style={styles.OptionButton}>
-                        <Button>
-                            <Text> All Plants '&gt;' </Text>
-                        </Button>
-                        <Button>
-                            <Text> Plants by Water Usage '&gt;' </Text>
-                        </Button>
-                        <Button>
-                            <Text> Plants by Zone '&gt;' </Text>
-                        </Button>
-                        <Button>
-                            <Text> All Plants '&gt;' </Text>
-                        </Button>
-                        <Button>
-                            <Text> All Plants '&gt;' </Text>
-                        </Button>
-                        <Button>
-                            <Text> All Plants '&gt;' </Text>
-                        </Button>
-                        <Button>
-                            <Text> All Plants '&gt;' </Text>
-                        </Button>
-                </View>
-
             </View>
+                
+                        <Button style={styles.buttonFormat}>
+                            <Text style={styles.buttonText}> All Plants &gt; </Text>
+                        </Button>
+                        <Button style={styles.buttonFormat}>
+                            <Text> Plants by Water Usage &gt; </Text>
+                        </Button>
+                        <Button style={styles.buttonFormat}>
+                            <Text> Plants by Zone &gt; </Text>
+                        </Button>
+                        <Button style={styles.buttonFormat}>
+                            <Text> All Plants &gt; </Text>
+                        </Button>
+                        <Button style={styles.buttonFormat}>
+                            <Text> All Plants &gt;</Text>
+                        </Button>
+                        <Button style={styles.buttonFormat}>
+                            <Text> All Plants &gt; </Text>
+                        </Button>
+                        <Button style={styles.buttonFormat}>
+                            <Text> All Plants &gt; </Text>
+                        </Button>
+                        <Button style={styles.buttonFormat}>
+                            <Text> All Plants &gt; </Text>
+                        </Button>
+                        <Button style={styles.buttonFormat}>
+                            <Text> All Plants &gt; </Text>
+                        </Button>
+
+            
         </ScrollView>
     </NativeBaseProvider>
     );
 }
 
 const styles = StyleSheet.create({
-    OptionButton: {
-        width: '100%',
-        height: 25,
-        borderRadius: 15,
-        borderWidth: 4,
-        margin: '1.2%',
-        padding: '1.2%',
+    swiperWrapper:{
+        height: '35%',
+       //margin: '3%',
     },
     SwiperView: {
-        //flex: 1,
-        width: '100%',
-        height: 125,
+        flexDirection: 'row',
+        height: '88%',
         borderWidth: 1,
-        margin: '0.5%',
-        padding: '3%',
-        
+        margin: '3%',
     },
     SearchBarWrapper: {
-        paddingTop: '7%',
+        alignContent: 'center',
+        alignItems: 'center',
+        marginTop: '21%',
+        marginBottom: '7%',
         margin: '2%',
+        height: 31,
+        borderWidth: 1,
+        borderRadius: 5,
+
     },
     buttonFormat: {
-        alignContent: 'center',
+        flexDirection: 'row',
+        height: 50,        
+        padding: 25,
+        margin: '1.2%',
+        borderRadius: 12,
+        borderWidth: 1,
+    },
+    buttonText: {
+        flexDirection: 'row',
+        alignSelf: 'flex-start',
+        justifyContent: 'flex-start',
+        alignContent: 'flex-start',
+        alignItems: 'flex-start',
+        textAlign: 'left',
     },
 
 });
