@@ -1,0 +1,581 @@
+[
+  {
+    "Categories": "Dracaena",
+    "Disease": "N/A",
+    "Use": [
+      "Potted plant",
+      "Secondary"
+    ],
+    "Latin name": "Dracaena deremensis 'Janet Craig'",
+    "Insects": [
+      "Mealy bug",
+      "Scale"
+    ],
+    "Avaibility": "Regular",
+    "url": "http://www.tropicopia.com/house-plant/detail.np/detail-121.html",
+    "Style": "Bush",
+    "Bearing": "Erect",
+    "Light tolered": "Diffuse light ( Less than 5,300 lux / 500 fc)",
+    "Height at purchase": {
+      "m": 0.91,
+      "cm": 91
+    },
+    "Light ideal": "Strong light ( 21,500 to 3,200 lux/2000 to 300 fc)",
+    "Width at purchase": {
+      "m": 0.91,
+      "cm": 91
+    },
+    "id": "53417c12-4824-5995-bce0-b81984ebbd1d",
+    "Appeal": "Robustness",
+    "img": "http://www.tropicopia.com/house-plant/thumbnails/5556.jpg",
+    "Perfume": null,
+    "Growth": "Regular",
+    "Width potential": {
+      "m": 1.22,
+      "cm": 122
+    },
+    "Common name (fr.)": "Janet Craig",
+    "Pruning": "If needed",
+    "Family": "Liliaceae",
+    "Height potential": {
+      "m": 3.66,
+      "cm": 366
+    },
+    "Origin": [
+      "Cultivar"
+    ],
+    "Description": null,
+    "Temperature max": {
+      "F": 86,
+      "C": 30
+    },
+    "Blooming season": "Winter / Spring",
+    "Color of leaf": [
+      "Dark green"
+    ],
+    "Watering": "Keep moist between watering & Can dry between watering",
+    "Color of blooms": "Light green",
+    "Zone": [
+      "11-10"
+    ],
+    "Common name": [
+      "Janet Craig"
+    ],
+    "Available sizes (Pot)": "4in to 14in / 10cm to 36cm",
+    "Other names": null,
+    "Temperature min": {
+      "F": 50,
+      "C": 10
+    },
+    "Pot diameter (cm)": {
+      "m": 0.25,
+      "cm": 25
+    },
+    "Climat": "Tropical"
+  },
+  {
+    "Categories": "Palm",
+    "Disease": "N/A",
+    "Use": [
+      "Potted plant",
+      "Secondary"
+    ],
+    "Latin name": "Rhapis excelsa",
+    "Insects": [
+      "N/A"
+    ],
+    "Avaibility": "Regular",
+    "url": "http://www.tropicopia.com/house-plant/detail.np/detail-290.html",
+    "Style": null,
+    "Bearing": "Clump",
+    "Light tolered": "Diffuse light ( Less than 5,300 lux / 500 fc)",
+    "Height at purchase": {
+      "m": 0.91,
+      "cm": 91
+    },
+    "Light ideal": "Strong light ( 21,500 to 3,200 lux/2000 to 300 fc)",
+    "Width at purchase": {
+      "m": 0.71,
+      "cm": 71
+    },
+    "id": "9b97aef1-20a4-5620-af90-7d64dadb414e",
+    "Appeal": "Foliage",
+    "img": "http://www.tropicopia.com/house-plant/thumbnails/5725.jpg",
+    "Perfume": null,
+    "Growth": "Slow",
+    "Width potential": {
+      "m": 3.05,
+      "cm": 305
+    },
+    "Common name (fr.)": null,
+    "Pruning": "Never",
+    "Family": "Arecaceae",
+    "Height potential": {
+      "m": 3.66,
+      "cm": 366
+    },
+    "Origin": [
+      "China"
+    ],
+    "Description": null,
+    "Temperature max": {
+      "F": 86,
+      "C": 30
+    },
+    "Blooming season": null,
+    "Color of leaf": [
+      "Dark green"
+    ],
+    "Watering": "Keep moist between watering & Must not dry between watering",
+    "Color of blooms": null,
+    "Zone": [
+      "11",
+      "9"
+    ],
+    "Common name": [
+      "Lady palm"
+    ],
+    "Available sizes (Pot)": "6in to 32in / 15cm to 81cm",
+    "Other names": "Rhapis flabelliformis",
+    "Temperature min": {
+      "F": 46.4,
+      "C": 8
+    },
+    "Pot diameter (cm)": {
+      "m": 0.25,
+      "cm": 25
+    },
+    "Climat": "Subtropical"
+  },
+  {
+    "Categories": "Anthurium",
+    "Disease": "Erwinia & Crown rot",
+    "Use": [
+      "Flower",
+      "Table top",
+      "Tertiary"
+    ],
+    "Latin name": "Anthurium X",
+    "Insects": [
+      "Spider mite",
+      "Mealy bug",
+      "Aphid"
+    ],
+    "Avaibility": "Regular",
+    "url": "http://www.tropicopia.com/house-plant/detail.np/detail-56.html",
+    "Style": null,
+    "Bearing": "Clump",
+    "Light tolered": "Diffuse light ( Less than 5,300 lux / 500 fc)",
+    "Height at purchase": {
+      "m": 0.25,
+      "cm": 25
+    },
+    "Light ideal": "Strong light ( 21,500 to 3,200 lux/2000 to 300 fc)",
+    "Width at purchase": {
+      "m": 0.3,
+      "cm": 30
+    },
+    "id": "215b33f4-66d2-5601-b776-4501f2bd50b7",
+    "Appeal": "Flower",
+    "img": "http://www.tropicopia.com/house-plant/thumbnails/5491.jpg",
+    "Perfume": null,
+    "Growth": "Regular",
+    "Width potential": {
+      "m": 0.61,
+      "cm": 61
+    },
+    "Common name (fr.)": "Flamant rose, Langue de feu",
+    "Pruning": "Never",
+    "Family": "Araceae",
+    "Height potential": {
+      "m": 0.61,
+      "cm": 61
+    },
+    "Origin": [
+      "Cultivar"
+    ],
+    "Description": null,
+    "Temperature max": {
+      "F": 71.6,
+      "C": 22
+    },
+    "Blooming season": "All year",
+    "Color of leaf": [
+      "Medium green",
+      "Dark green"
+    ],
+    "Watering": "Water when soil is half dry & Can dry between watering",
+    "Color of blooms": "Pink",
+    "Zone": [
+      "11"
+    ],
+    "Common name": [
+      "Tailflower",
+      "Wax flower"
+    ],
+    "Available sizes (Pot)": "3in to 14in / 8cm to 36cm",
+    "Other names": null,
+    "Temperature min": {
+      "F": 64.4,
+      "C": 18
+    },
+    "Pot diameter (cm)": {
+      "m": 0.15,
+      "cm": 15
+    },
+    "Climat": "Tropical"
+  },
+  {
+    "Categories": "Other",
+    "Disease": "Phytophtora & Crown rot",
+    "Use": [
+      "Colors / Forms",
+      "Table top",
+      "Tertiary"
+    ],
+    "Latin name": "Alocasia X amazonica",
+    "Insects": [
+      "Spider mite",
+      "Mealy bug"
+    ],
+    "Avaibility": "Regular",
+    "url": "http://www.tropicopia.com/house-plant/detail.np/detail-51.html",
+    "Style": null,
+    "Bearing": "Clump",
+    "Light tolered": "Diffuse light ( Less than 5,300 lux / 500 fc)",
+    "Height at purchase": {
+      "m": 0.3,
+      "cm": 30
+    },
+    "Light ideal": "Strong light ( 21,500 to 3,200 lux/2000 to 300 fc)",
+    "Width at purchase": {
+      "m": 0.3,
+      "cm": 30
+    },
+    "id": "55a0e4fa-0717-521d-9671-0fc9095f2055",
+    "Appeal": "Foliage",
+    "img": "http://www.tropicopia.com/house-plant/thumbnails/5486.jpg",
+    "Perfume": null,
+    "Growth": "Slow",
+    "Width potential": {
+      "m": 0.91,
+      "cm": 91
+    },
+    "Common name (fr.)": "Oreille d'lphant",
+    "Pruning": "Never",
+    "Family": "Araceae",
+    "Height potential": {
+      "m": 1.52,
+      "cm": 152
+    },
+    "Origin": [
+      "Hybrid"
+    ],
+    "Description": null,
+    "Temperature max": {
+      "F": 82.4,
+      "C": 28
+    },
+    "Blooming season": "Seasonal",
+    "Color of leaf": [
+      "Dark green",
+      "Grey"
+    ],
+    "Watering": "Keep moist between watering & Water when soil is half dry",
+    "Color of blooms": "Light green",
+    "Zone": [
+      "11"
+    ],
+    "Common name": [
+      "Elephant ear"
+    ],
+    "Available sizes (Pot)": "4in to 14in / 10cm to 36cm",
+    "Other names": "(A. sanderiana x A. lowii grandis)",
+    "Temperature min": {
+      "F": 59,
+      "C": 15
+    },
+    "Pot diameter (cm)": {
+      "m": 0.15,
+      "cm": 15
+    },
+    "Climat": "Tropical humid"
+  },
+  {
+    "Categories": "Dracaena",
+    "Disease": "N/A",
+    "Use": [
+      "Potted plant",
+      "Primary"
+    ],
+    "Latin name": "Dracaena reflexa 'Song of Jamaica'",
+    "Insects": [
+      "Mealy bug"
+    ],
+    "Avaibility": "Regular",
+    "url": "http://www.tropicopia.com/house-plant/detail.np/detail-151.html",
+    "Style": "Multi",
+    "Bearing": "Arborescent",
+    "Light tolered": "Diffuse light ( Less than 5,300 lux / 500 fc)",
+    "Height at purchase": {
+      "m": 1.68,
+      "cm": 168
+    },
+    "Light ideal": "Strong light ( 21,500 to 3,200 lux/2000 to 300 fc)",
+    "Width at purchase": {
+      "m": 0.91,
+      "cm": 91
+    },
+    "id": "99596292-0712-5d51-8b94-669d621c504a",
+    "Appeal": "Bearing",
+    "img": "http://www.tropicopia.com/house-plant/thumbnails/5586.jpg",
+    "Perfume": null,
+    "Growth": "Regular",
+    "Width potential": {
+      "m": 3.05,
+      "cm": 305
+    },
+    "Common name (fr.)": "Dracaena de Malaisie",
+    "Pruning": "If needed",
+    "Family": "Liliaceae",
+    "Height potential": {
+      "m": 6.1,
+      "cm": 610
+    },
+    "Origin": [
+      "Cultivar"
+    ],
+    "Description": null,
+    "Temperature max": {
+      "F": 86,
+      "C": 30
+    },
+    "Blooming season": "Winter",
+    "Color of leaf": [
+      "Dark green",
+      "Yellow"
+    ],
+    "Watering": "Keep moist between watering & Water when soil is half dry",
+    "Color of blooms": "Medium green",
+    "Zone": [
+      "11-10"
+    ],
+    "Common name": [
+      "Malaysian Dracaena"
+    ],
+    "Available sizes (Pot)": "6in to 48in / 15cm to 122cm",
+    "Other names": "Pleomele reflexa",
+    "Temperature min": {
+      "F": 53.6,
+      "C": 12
+    },
+    "Pot diameter (cm)": {
+      "m": 0.36,
+      "cm": 36
+    },
+    "Climat": "Tropical"
+  },
+  {
+    "Categories": "Aglaonema",
+    "Disease": "Phytophtora , Crown rot",
+    "Use": [
+      "Table top",
+      "Ground cover",
+      "Tertiary"
+    ],
+    "Latin name": "Aglaonema 'Jubilee'",
+    "Insects": [
+      "Mealy bug",
+      "Scale"
+    ],
+    "Avaibility": "Regular",
+    "url": "http://www.tropicopia.com/house-plant/detail.np/detail-31.html",
+    "Style": null,
+    "Bearing": "Clump",
+    "Light tolered": "Diffuse light ( Less than 5,300 lux / 500 fc)",
+    "Height at purchase": {
+      "m": 0.3,
+      "cm": 30
+    },
+    "Light ideal": "Strong light ( 21,500 to 3,200 lux/2000 to 300 fc)",
+    "Width at purchase": {
+      "m": 0.3,
+      "cm": 30
+    },
+    "id": "894d8453-28a0-59d1-ac0a-132dff7ee7a5",
+    "Appeal": "Foliage",
+    "img": "http://www.tropicopia.com/house-plant/thumbnails/5466.jpg",
+    "Perfume": null,
+    "Growth": "Regular",
+    "Width potential": {
+      "m": 0.91,
+      "cm": 91
+    },
+    "Common name (fr.)": "Aglaonema",
+    "Pruning": "If needed",
+    "Family": "Araceae",
+    "Height potential": {
+      "m": 0.91,
+      "cm": 91
+    },
+    "Origin": [
+      "Hybrid"
+    ],
+    "Description": null,
+    "Temperature max": {
+      "F": 82.4,
+      "C": 28
+    },
+    "Blooming season": "Seasonal",
+    "Color of leaf": [
+      "Dark green",
+      "Grey"
+    ],
+    "Watering": "Keep moist between watering & Water when soil is half dry",
+    "Color of blooms": "Light green",
+    "Zone": [
+      "11"
+    ],
+    "Common name": [
+      "Chinese Evergreen"
+    ],
+    "Available sizes (Pot)": "6in to 14in / 15cm to 36cm",
+    "Other names": null,
+    "Temperature min": {
+      "F": 64.4,
+      "C": 18
+    },
+    "Pot diameter (cm)": {
+      "m": 0.15,
+      "cm": 15
+    },
+    "Climat": "Tropical"
+  },
+  {
+    "Categories": "Dracaena",
+    "Disease": "N/A",
+    "Use": [
+      "Potted plant",
+      "Primary"
+    ],
+    "Latin name": "Dracaena reflexa 'Song of Jamaica'",
+    "Insects": [
+      "Mealy bug"
+    ],
+    "Avaibility": "Regular",
+    "url": "http://www.tropicopia.com/house-plant/detail.np/detail-150.html",
+    "Style": "Bush",
+    "Bearing": "Arborescent",
+    "Light tolered": "Diffuse light ( Less than 5,300 lux / 500 fc)",
+    "Height at purchase": {
+      "m": 1.22,
+      "cm": 122
+    },
+    "Light ideal": "Strong light ( 21,500 to 3,200 lux/2000 to 300 fc)",
+    "Width at purchase": {
+      "m": 0.91,
+      "cm": 91
+    },
+    "id": "e5be9fde-3069-552c-969c-bb59f0fab9f2",
+    "Appeal": "Bearing",
+    "img": "http://www.tropicopia.com/house-plant/thumbnails/5585.jpg",
+    "Perfume": null,
+    "Growth": "Regular",
+    "Width potential": {
+      "m": 3.05,
+      "cm": 305
+    },
+    "Common name (fr.)": "Dracaena de Malaisie",
+    "Pruning": "If needed",
+    "Family": "Liliaceae",
+    "Height potential": {
+      "m": 6.1,
+      "cm": 610
+    },
+    "Origin": [
+      "Cultivar"
+    ],
+    "Description": null,
+    "Temperature max": {
+      "F": 86,
+      "C": 30
+    },
+    "Blooming season": "Winter",
+    "Color of leaf": [
+      "Dark green",
+      "Yellow"
+    ],
+    "Watering": "Keep moist between watering & Water when soil is half dry",
+    "Color of blooms": "Medium green",
+    "Zone": [
+      "11-10"
+    ],
+    "Common name": [
+      "Malaysian Dracaena"
+    ],
+    "Available sizes (Pot)": "6in to 48in / 15cm to 122cm",
+    "Other names": "Pleomele reflexa",
+    "Temperature min": {
+      "F": 53.6,
+      "C": 12
+    },
+    "Pot diameter (cm)": {
+      "m": 0.36,
+      "cm": 36
+    },
+    "Climat": "Tropical"
+  },
+  {
+    "Categories": "Hanging",
+    "Disease": "N/A",
+    "Use": [
+      "Hanging",
+      "Table top"
+    ],
+    "Latin name": "Maranta leuconeura erythroneura",
+    "Insects": [
+      "Mealy bug"
+    ],
+    "Avaibility": "Regular",
+    "url": "http://www.tropicopia.com/house-plant/detail.np/detail-222.html",
+    "Style": null,
+    "Bearing": "Creeping",
+    "Light tolered": "Diffuse light ( Less than 5,300 lux / 500 fc)",
+    "Height at purchase": {
+      "m": 0.25,
+      "cm": 25
+    },
+    "Light ideal": "Strong light ( 21,500 to 3,200 lux/2000 to 300 fc)",
+    "Width at purchase": {
+      "m": 0.51,
+      "cm": 51
+    },
+    "id": "f66ad303-c2ff-55ac-8689-036553b740fe",
+    "Appeal": "Color",
+    "img": "http://www.tropicopia.com/house-plant/thumbnails/5657.jpg",
+    "Perfume": null,
+    "Growth": "Regular",
+    "Width potential": null,
+    "Common name (fr.)": "Plante religieuse, Plante qui prie, Plante prieuse",
+    "Pruning": "If needed",
+    "Family": "Marantaceae",
+    "Height potential": {
+      "m": 0.25,
+      "cm": 25
+    },
+    "Origin": [
+      "Brazil"
+    ],
+    "Description": null,
+    "Temperature max": {
+      "F": 82.4,
+      "C": 28
+    },
+    "Blooming season": "Spring",
+    "Color of leaf": [
+      "Medium green",
+      "Red"
+    ],
+    "Watering": "Keep moist between watering & Water when",
+  }
+]

@@ -1,0 +1,3 @@
+(dataset) Chamberlain, Scott (2018). USDA Plants Database API in R. GitHub. https://data.nal.usda.gov/dataset/usda-plants-database-api-r. Accessed 2023-06-21.
+https://perenual.com/docs/api
+https://trefle.io/
